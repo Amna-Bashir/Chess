@@ -1,23 +1,28 @@
-Chess
+# Chess
+
 A Java-based command-line chess application.
 
-Features
-User registration and login
-One-time security codes
-Player statistics
-Leaderboard
-Two-player chess
-Legal piece movement
-Capturing pieces
-Castling
-En passant
-Pawn promotion
-Check detection
-Checkmate detection
-Stalemate detection
-Move history
-Captured piece tracking
-Project Structure
+## Features
+
+- User registration and login
+- One-time security codes
+- Player statistics
+- Leaderboard
+- Two-player chess
+- Legal piece movement
+- Capturing pieces
+- Castling
+- En passant
+- Pawn promotion
+- Check detection
+- Checkmate detection
+- Stalemate detection
+- Move history
+- Captured piece tracking
+
+## Project Structure
+
+```text
 src/
 ├── Chess.java
 │
